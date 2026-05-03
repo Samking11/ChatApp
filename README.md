@@ -1,8 +1,16 @@
-It include 
+# React Chatbot (Nova Chat)
 
-Firebase Auth : Sign in, Sign up and Sign out
+A modern React + Vite chatbot with a neon glassmorphism UI.
 
-Flutter app that uses Cloud Firestore (a NoSQL database from Firebase).It provides methods to interact with Firestore for managing user data, chat rooms, and messages
+## Run locally
 
-Integrates Google account authentication using googlesignin
+```bash
+npm install
+npm run dev
+```
 
+## Build
+
+```bash
+npm run build
+```
